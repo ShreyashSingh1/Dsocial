@@ -1,20 +1,20 @@
-# **Dsocial - Decentralized Social Media App**
+# **Dconnect - Decentralized Social Media App**
 
-Welcome to Dsocial, a decentralized social media platform where users can engage with each other, earn tokens, and participate in various activities. Before diving into the platform, it's essential to familiarize yourself with some core principles and features.
+Welcome to Dconnect, a decentralized social media platform where users can engage with each other, earn tokens, and participate in various activities. Before diving into the platform, it's essential to familiarize yourself with some core principles and features.
 
 ## **Core DAO Testnet Faucets**
 
-Before starting your journey on Dsocial, it's recommended to read about some core DAO (Decentralized Autonomous Organization) faucets. These are essential components of our platform, ensuring transparency, fairness, and community governance. You can find more information about these faucets [here](https://scan.test.btcs.network/faucet).
+Before starting your journey on Dconnect, it's recommended to read about some core DAO (Decentralized Autonomous Organization) faucets. These are essential components of our platform, ensuring transparency, fairness, and community governance. You can find more information about these faucets [here](https://scan.test.btcs.network/faucet).
 
 ## **Features**
 
 ### 1. AI-Generated Images and Memes
 
-Dsocial offers a unique feature where users can access AI-generated images and memes to share with each other. Additionally, users can unleash their creativity by creating a playground within the platform. In this playground, users can stake their assets and potentially earn more tokens.
+Dconnect offers a unique feature where users can access AI-generated images and memes to share with each other. Additionally, users can unleash their creativity by creating a playground within the platform. In this playground, users can stake their assets and potentially earn more tokens.
 
 ### 2. Fund Raising for Early-Stage Startups
 
-One of the main attractions of Dsocial is its crowd-funding section dedicated to early-stage startups. Here, venture capitalists (VCs) and individuals alike can contribute to startup projects, helping them raise necessary funds for their growth and development.
+One of the main attractions of Dconnect is its crowd-funding section dedicated to early-stage startups. Here, venture capitalists (VCs) and individuals alike can contribute to startup projects, helping them raise necessary funds for their growth and development.
 
 
 ## **Why Anon Aadhaar Matters for Fund Raising:**
@@ -26,11 +26,11 @@ Anon Aadhaar is the backbone of our crowdfunding system. It makes sure everyone 
 
 ## **Getting Started**
 
-To begin your journey on Dsocial, follow these steps:
+To begin your journey on Dconnect, follow these steps:
 
 1. **Sign Up**: Provide a QR code corresponding to your Anon Aadhaar during signup for secure and anonymous authentication.
    
-2. **Explore Features**: Take some time to explore the various features offered by Dsocial, including AI-generated content and crowd-funding opportunities.
+2. **Explore Features**: Take some time to explore the various features offered by Dconnect, including AI-generated content and crowd-funding opportunities.
    
 3. **Engage with the Community**: Connect with other users, engage in discussions, share content, and participate in activities within the platform.
    
@@ -38,14 +38,10 @@ To begin your journey on Dsocial, follow these steps:
 
 ## **Security and Privacy**
 
-At Dsocial, we prioritize the security and privacy of our users. We employ robust encryption methods and adhere to strict privacy standards to ensure that your data remains safe and secure.
+At Dconnect, we prioritize the security and privacy of our users. We employ robust encryption methods and adhere to strict privacy standards to ensure that your data remains safe and secure.
 
 ## **Feedback and Support**
 
-Your thoughts mean a lot to us! If you have any ideas, questions, or run into any problems using Dsocial, please don't hesitate to get in touch with our support team. Your feedback helps us make Dsocial better for everyone.
-
-## **Join the Decentralized Social Movement**
-
-Join us on Dsocial and be part of the decentralized social media movement. Experience a platform where users are empowered, incentivized, and engaged in building a vibrant community together. Welcome to Dsocial!
+Your thoughts mean a lot to us! If you have any ideas, questions, or run into any problems using Dconnect, please don't hesitate to get in touch with our support team. Your feedback helps us make Dconnect better for everyone.
 
 --- 
